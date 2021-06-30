@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+caption {
+  padding-bottom: 10px;
+  font-weight: bolder;
+  font-size: 20px;
+  color: olive;
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: black;
+}
+
+#table {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+table {
+  border: 1px solid rgb(37, 37, 0);
+  color: rgb(37, 37, 0);
+}
+
+td,
+th {
+  padding: 1px 20px;
+  border: 1px solid olive;
+}
+th {
+  font-size: 16px;
+}
+
+th {
+  font-size: 14px;
+}
